@@ -1,0 +1,42 @@
+* {
+    font: ;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background: #d3d3d3;
+    background: linear-gradient(140deg, #d3d3d3 0%, crimson 400%);
+    border: none;
+}
+
+.header {
+    background-image: url("/img/rabbit-header.jpg");
+    height: 400px;
+    float: top;
+    background-position: center center;
+}
+
+h1 {
+    color: deeppink;
+    background-color: rgba(211, 211, 211, 0.5);
+    font-family: fantasy;
+    font-size: 60px;
+    line-height 45px;
+    margin: 0;
+    text-align: center;
+    position: relative;
+    top: 55%
+}
+
+h2 {
+    color: rgb(90, 20, 20);
+    text-shadow: 1px 1px 1px;
+}
+
+h4 {
+    color: rgb(50, 10, 10);
+    text-align: center;
+    padding: 5%;
+    width: 70%;
+}
